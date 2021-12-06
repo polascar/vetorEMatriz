@@ -1,2 +1,3 @@
-# vetorEMatriz
-Esta lista de exercícios sobre Vetores[ ] e Matrizes [ ][ ] feita em portugol.
+# Vetor e Matriz
+
+## Esta lista de exercícios sobre Vetores[ ] e Matrizes [ ][ ] feita em portugol.
